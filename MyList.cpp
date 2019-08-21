@@ -4,6 +4,7 @@
 
 using namespace std;
 
+//Ndumiso
 void Init (List& L)
 { L = NULL; } // L points to  nothing;}
 
